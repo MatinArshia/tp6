@@ -8,6 +8,13 @@ const HomePage = () =>{
         return (
             <div>
                 <Cart 
+                    productlink={item.purchase}
+                    productimg={item.img}
+                    producttitle={item.title}
+                    productprice={item.price}
+                    productpuc={item.purchasecode}
+                    productrate={item.rate}
+                    productratecount={item.count}
                 />
             </div>
         )
