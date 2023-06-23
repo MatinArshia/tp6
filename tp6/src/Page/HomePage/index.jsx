@@ -15,8 +15,8 @@ const HomePage = () =>{
                             producttitle={item.title}
                             productprice={item.price}
                             productpuc={item.purchasecode}
-                            productrate={item.rate}
-                            productratecount={item.count}
+                            productrate={item.rating.rate}
+                            productratecount={item.rating.count}
                         />
                     </div>
                 )
