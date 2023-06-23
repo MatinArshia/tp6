@@ -10,7 +10,7 @@
 }
 
 .cart-img{
-    margin: 2rem;
+    margin: 1.5rem;
 }
 
 .linktitle:hover{
@@ -24,18 +24,41 @@
 
 .title{
     font-size: 20px;
+    margin: 10px;
 }
 
 .specs{
-    margin: 2rem;
+    margin: 1.5rem;
 }
 
+.min-spec{
+    display: flex;
+}
 
+.price{
+    font-size: 15px;
+    font-weight: 600;
+    margin: 10px;
+}
+.puc{
+    margin: 10px;
+    font-size: 12px;
+    color: #636363;
+}
+.rating{
+    margin: 10px;
+    color: #636363;
+}
 
+.icon{
+    color: gold;
+}
 
 .push-buy:hover{
     color: #24a3fe;
 }
 .push-buy{
+    font-size: 10px;
     color: black;
+    margin: 10px;
 }
