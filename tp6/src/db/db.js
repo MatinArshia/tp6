@@ -14,10 +14,10 @@ export const db = [
     {
         "id": 2,
         "title": "Galaxy Z Fold4 256GB (Unlocked)",
-        "purchase": "https://www.samsung.com/us/mobile/phones/galaxy-z/galaxy-z-fold4-256gb-unlocked-sm-f936uzkaxaa",
+        "purchase": "https://www.samsung.com/us/mobile/phones/galaxy-z/galaxy-z-flip4-256gb-unlocked-sm-f721ulvexaa",
         "price": 1799.99,
         "purchasecode": "SM-F936UDRAXAA",
-        "img": "https://image-us.samsung.com/SamsungUS/configurator/Q4_color-Burgundy-Gallery-DT.jpg?$default-400-jpg$",
+        "img": "https://image-us.samsung.com/SamsungUS/home/mobile/phones/pdp/galaxy-z/galaxy-z-flip4/SDSAC-4730-Zflip4-Blue-01-1600x1200.jpg?$default-400-jpg$",
         "rating": {
             "rate": 4.7,
             "count": 2578
@@ -50,10 +50,10 @@ export const db = [
     {
         "id": 5,
         "title": "Galaxy Z Flip4 256GB (Unlocked)",
-        "purchase": "https://www.samsung.com/us/mobile/phones/galaxy-z/galaxy-z-flip4-256gb-unlocked-sm-f721u7xexaa",
+        "purchase": "https://www.samsung.com/us/mobile/phones/galaxy-z/galaxy-z-flip4-512gb-unlocked-sm-f721ulbfxaa",
         "price": 1099.99,
         "purchasecode": "SM-F721U7XEXAA",
-        "img": "https://image-us.samsung.com/us/smartphones/galaxy-z-flip4/designstudio/SM-F721U7XEXAA-720x720.jpg?$default-400-jpg$",
+        "img": "https://image-us.samsung.com/SamsungUS/home/mobile/phones/pdp/galaxy-z/galaxy-z-flip4/SDSAC-4730-Zflip4-Bora_purple-01-1600x1200.jpg?$default-400-jpg$",
         "rating": {
             "rate": 4.3,
             "count": 1978

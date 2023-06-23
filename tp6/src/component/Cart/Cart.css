@@ -10,14 +10,32 @@
 }
 
 .cart-img{
-    margin-left: 2.5rem;
-    margin-right: 2.5rem;
+    margin: 2rem;
+}
+
+.linktitle:hover{
+    color: #24a3fe;
 }
 
 .linktitle{
+    color: black;
     text-decoration: none;
 }
 
 .title{
     font-size: 20px;
+}
+
+.specs{
+    margin: 2rem;
+}
+
+
+
+
+.push-buy:hover{
+    color: #24a3fe;
+}
+.push-buy{
+    color: black;
 }
