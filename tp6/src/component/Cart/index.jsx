@@ -8,7 +8,7 @@ function Cart(props) {
             <div className='stcard'>
                 <div className="cart-img">
                     <a className="linkimg" href={props.productlink}>
-                        <img className="img" src={props.productimg} alt={props.producttitle} width={"210px"} />
+                        <img className="img" src={props.productimg} alt={props.producttitle} width={"200px"} />
                     </a>
                 </div>
 

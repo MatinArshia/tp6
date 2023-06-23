@@ -133,7 +133,7 @@ export const db = [
     },
     {
         "id": 12,
-        "title": "https://image-us.samsung.com/SamsungUS/home/mobile/phones/pf/galaxy-a/03102023/1.jpg?$default-400-jpg$",
+        "title": "Galaxy A54 5G, 128GB (Unlocked)",
         "purchase": "https://www.samsung.com/us/mobile/phones/galaxy-a/galaxy-a54-5g-128gb-unlocked-sm-a546ulvbxaa",
         "price": 449.99,
         "purchasecode": "SM-A546U1",
@@ -193,7 +193,7 @@ export const db = [
     },
     {
         "id": 17,
-        "title": "https://image-us.samsung.com/SamsungUS/home/smartphones/gallery-images-crn/Gallery_Images_CRN_Galaxy_S21_5G_Gray_Lockup_RGB.jpg?$default-400-jpg$",
+        "title": "Galaxy Chromebook, 256GB, 8GB RAM, Mercury Gray",
         "purchase": "https://www.samsung.com/us/computing/chromebooks/12-14/galaxy-chromebook--256gb-storage--8gb-ram---mercury-gray-xe930qca-k02us",
         "price": 999.99,
         "purchasecode": "XE930QCA",
