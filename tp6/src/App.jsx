@@ -5,9 +5,9 @@ import HomePage from './Page/HomePage/index'
 function App() {
 
   return (
-    <>
+    <div className='ABC'>
       <HomePage />
-    </>
+    </div>
   )
 }
 

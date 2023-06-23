@@ -8,13 +8,13 @@ function Cart(props) {
             <div className='stcard'>
                 <div className="cart-img">
                     <a className="linkimg" href={props.productlink}>
-                        <img className="img" src={props.productimg} alt={props.producttitle} />
+                        <img className="img" src={props.productimg} alt={props.producttitle} width={"210px"} />
                     </a>
                 </div>
 
                 <div className="specs">
                     <a className="linktitle" href={props.productlink}>
-                        <h3 className="title">{props.producttitle}</h3>
+                        <h5 className="title">{props.producttitle}</h5>
                     </a>
 
                     <div className="min-spec">

@@ -1,4 +1,19 @@
-.cart-img{
+.container{
+    background-color: #f7f7f7;
+}
+
+.stcard{
+    margin: 2rem;
+    background-color: white;
     display: flex;
     justify-content: start;
+}
+
+.cart-img{
+    margin-left: 2.5rem;
+    margin-right: 2.5rem;
+}
+
+.linktitle{
+    text-decoration: none;
 }
